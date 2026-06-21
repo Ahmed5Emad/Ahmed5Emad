@@ -72,24 +72,6 @@ I'm a **UI/UX Designer & Front-End Developer** passionate about building invisib
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed5Emad&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Portfolio V2](https://github.com/Ahmed5Emad/Portfolio-V2) | My new and improved portfolio | TypeScript, React |
-| [EchoVisionApp](https://github.com/Ahmed5Emad/EchoVisionApp) | Vision-based application | TypeScript |
-| [Focus](https://github.com/Ahmed5Emad/Focus) | Productivity focus app | React |
-| [E-commerce Demo](https://github.com/Ahmed5Emad/E-commerce-Demo) | E-commerce platform demo | React |
-
----
-
-### 🎯 Current Focus
-
-- Building beautiful, accessible UIs
-- Contributing to open source (Hyprland, etc.)
-- Growing on Upwork as a top-rated UI/UX designer
 
 ---
 
