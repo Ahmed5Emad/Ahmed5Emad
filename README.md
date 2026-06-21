@@ -28,7 +28,7 @@ I'm a **UI/UX Designer & Front-End Developer** passionate about building invisib
 - 👯 Open to collaborate on **open source design systems & UI libraries**
 - 💬 Ask me about **UI/UX, React, TypeScript, Figma**
 - 📫 Reach me at: **ahmed5emad@gmail.com**
-- ⚡ Fun fact: I contribute to **Hyprland** (fixing visual bugs in the compositor)
+
 
 ---
 
