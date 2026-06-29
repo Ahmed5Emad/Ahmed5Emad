@@ -27,7 +27,6 @@ I'm a **UI/UX Designer & Front-End Developer** passionate about building invisib
 - 🌱 Learning **advanced React patterns & design systems**
 - 👯 Open to collaborate on **open source design systems & UI libraries**
 - 💬 Ask me about **UI/UX, React, TypeScript, Figma**
-- 📫 Reach me at: **ahmed5emad@gmail.com**
 
 
 ---
