@@ -63,12 +63,12 @@ I'm a **UI/UX Designer & Front-End Developer** passionate about building invisib
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-delta-five-92.vercel.app/api?username=Ahmed5Emad&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-delta-five-92.vercel.app/api?username=Ahmed5Emad&show_icons=true&theme=tokyonight&hide_border=true&_t=1" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed5Emad&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-delta-five-92.vercel.app/api/top-langs/?username=Ahmed5Emad&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats-delta-five-92.vercel.app/api/top-langs/?username=Ahmed5Emad&layout=compact&theme=tokyonight&hide_border=true&_t=1" width="40%" />
 </p>
 
 
