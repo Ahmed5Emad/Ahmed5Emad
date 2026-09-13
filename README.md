@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad</h1>
-<h3 align="center">UI/UX Designer & Front-End Developer</h3>
+<h3 align="center">UI/UX Designer & Front-End Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14A800&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Front-End+Developer;React+%7C+TypeScript+%7C+Figma;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14A800&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Front-End+Engineer;React+%7C+TypeScript+%7C+Figma;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
